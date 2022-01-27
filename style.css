@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    background-color:black;
+    color:white;
+    margin-top: 10px;
+}
+.blue{
+    color:turquoise
+}
+h2{
+    text-align: center;
+    font-size: 40;
+    background-color: rgb(105, 27, 177);
+    color:white;
+    font-style: italic;
+    padding: 15px;
+    margin-top
+}
+h3{
+    text-align: right;
+    text-decoration:underline;
+    background-color: rgb(133, 183, 224);
+    padding:10px;
+}
